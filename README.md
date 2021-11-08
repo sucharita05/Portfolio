@@ -1,6 +1,6 @@
-#Portfolio Project
+# Portfolio Project
 
-####This is a site made by HTML, CSS and Bootstrap
+#### This is a site made by HTML, CSS and Bootstrap
 
 Description
 This site is a home page for my portfolio. It will show previous work history, schools attended and have links to my Github page.
